@@ -25,6 +25,9 @@
 1. Install the current upstream Arduino IDE at the 1.8 level or later. The current version is at the [Arduino website](http://www.arduino.cc/en/main/software).
 2. Start Arduino and open Preferences window. In additional board manager add url: https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32_index.json .separating them with commas.
 3. Select Tools -> Board -> dfrobot_firebeetle2_esp32s3
+4. Arduino users need to move all files in lib, along with folders, to the library file directory in the Arduino IDE. The default path is as shown in the figure
+![](../image/Arduino_user_readme_01.png)
+![](../image/Arduino_user_readme_02.png)
 
 **USE Micropython**
 

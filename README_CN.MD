@@ -35,4 +35,5 @@
 | [T8-S3]() | [AliExpress]() |
 
 ## Pinout
-![](image/T8-S3_V1.0.jpg)
+![](image/T8-S3_V1.1_Front.jpg)
+![](image/T8-S3_V1.1_Back.jpg)

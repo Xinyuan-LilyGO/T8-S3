@@ -1,11 +1,9 @@
 /*
  * @Description: LED brightness changes from dark to bright and then from
  *                      bright to dark
- * @version: V1.0.0
  * @Author: LILYGO_L
  * @Date: 2023-08-18 15:35:51
- * @LastEditors: LILYGO_L
- * @LastEditTime: 2023-08-18 15:49:33
+ * @LastEditTime: 2024-11-11 16:11:25
  * @License: GPL 3.0
  */
 #include <Arduino.h>

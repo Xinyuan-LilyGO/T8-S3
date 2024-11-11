@@ -1,10 +1,8 @@
 /*
  * @Description: After 5 seconds, it will enter a deep sleep mode
- * @version: V1.0.0
  * @Author: LILYGO_L
  * @Date: 2023-08-18 15:26:31
- * @LastEditors: LILYGO_L
- * @LastEditTime: 2023-08-18 15:37:23
+ * @LastEditTime: 2024-11-11 16:11:36
  * @License: GPL 3.0
  */
 #include <Arduino.h>

@@ -1,12 +1,8 @@
 /*
  * @Description:SD card test procedure.
-*   For pin connections, see "pin_config.h" file.
-
- * @version: V1.0.0
  * @Author: LILYGO_L
  * @Date: 2023-08-18 15:33:23
- * @LastEditors: LILYGO_L
- * @LastEditTime: 2023-08-18 15:37:12
+ * @LastEditTime: 2024-11-11 16:12:27
  * @License: GPL 3.0
  */
 #include <SPI.h>

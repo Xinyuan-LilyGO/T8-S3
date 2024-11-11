@@ -1,10 +1,8 @@
 /*
  * @Description: Wifi test
- * @version: V1.0.0
  * @Author: LILYGO_L
  * @Date: 2023-08-18 15:38:10
- * @LastEditors: LILYGO_L
- * @LastEditTime: 2023-08-18 15:47:26
+ * @LastEditTime: 2024-11-11 16:12:12
  * @License: GPL 3.0
  */
 #include "Arduino.h"

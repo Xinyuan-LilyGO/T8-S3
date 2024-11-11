@@ -1,10 +1,8 @@
 /*
- * @Description: None
- * @version: V1.0.0
- * @Author: None
+ * @Description: Factory testing documents
+ * @Author: LILYGO_L
  * @Date: 2023-07-13 09:54:00
- * @LastEditors: LILYGO_L
- * @LastEditTime: 2024-02-24 09:55:02
+ * @LastEditTime: 2024-11-11 16:11:42
  * @License: GPL 3.0
  */
 #include <Arduino.h>

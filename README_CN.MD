@@ -1,10 +1,8 @@
 <!--
  * @Description: None
- * @version: V1.0.0
  * @Author: LILYGO_L
  * @Date: 2023-08-18 15:59:42
- * @LastEditors: LILYGO_L
- * @LastEditTime: 2023-08-18 18:06:11
+ * @LastEditTime: 2024-11-20 13:54:48
  * @License: GPL 3.0
 -->
 <h1 align = "center">🌟LILYGO T8 ESP32-S3🌟</h1>

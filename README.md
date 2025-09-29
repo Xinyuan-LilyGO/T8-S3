@@ -2,7 +2,7 @@
  * @Description: None
  * @Author: LILYGO_L
  * @Date: 2023-08-18 15:58:58
- * @LastEditTime: 2024-11-20 13:55:08
+ * @LastEditTime: 2025-09-29 17:08:29
  * @License: GPL 3.0
 -->
 <h1 align = "center">🌟LILYGO T8 ESP32-S3🌟</h1>
@@ -40,9 +40,7 @@
 |  T8-S3  | [AliExpress]() |
 
 ## Pinout
-
-![](image/T8-S3_V1.1_Front.jpg)
-![](image/T8-S3_V1.1_Back.jpg)
+![](image/1.jpg)
 
 
 
